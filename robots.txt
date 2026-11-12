@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 User-agent: Yeti
 Allow: /
-Sitemap: http://jungsu777.kr/sitemap.xml
+Sitemap: https://jungsu777.kr/sitemap.xml
